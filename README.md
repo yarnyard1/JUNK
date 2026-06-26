@@ -7,3 +7,4 @@ removing the written words if you dont like it and adding ur hopes and experties
 change the link to your demo or portofilio video by:
 changing the link to the button 
 if you dont like any colors or styles you can always change them in the style.css
+<img width="1906" height="868" alt="Screenshot 2026-06-27 010556" src="https://github.com/user-attachments/assets/ff947ae9-e9e5-4dda-8c53-f1ad6c601ba9" />
